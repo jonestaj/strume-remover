@@ -1,7 +1,12 @@
 fastapi
 uvicorn
+requests
 torchaudio
 demucs
 ffmpeg-python
 python-multipart
 sse-starlette
+pydub
+librosa
+numpy
+soundfile
