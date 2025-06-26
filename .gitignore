@@ -1,0 +1,9 @@
+__pycache__/
+node_modules/
+.env
+*.pyc
+outputs/
+stored/
+temp_*.mp3
+.vscode/
+.DS_Store
